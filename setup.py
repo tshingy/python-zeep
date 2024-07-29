@@ -37,7 +37,7 @@ tests_require = [
     "isort==5.3.2",
     "flake8==3.8.3",
     "flake8-blind-except==0.1.1",
-    "flake8-debugger==3.2.1",
+    "flake8-debugger==4.1.2",
     "flake8-imports==0.1.1",
 ]
 

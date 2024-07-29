@@ -31,7 +31,7 @@ tests_require = [
     "pytest-cov==2.8.1",
     "pytest-httpx",
     "pytest-asyncio",
-    "pytest==6.2.5",
+    "pytest==8.3.2",
     "requests_mock>=0.7.0",
     # Linting
     "isort==5.3.2",

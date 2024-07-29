@@ -34,7 +34,7 @@ tests_require = [
     "pytest==6.2.5",
     "requests_mock>=0.7.0",
     # Linting
-    "isort==5.3.2",
+    "isort==5.13.2",
     "flake8==3.8.3",
     "flake8-blind-except==0.1.1",
     "flake8-debugger==3.2.1",

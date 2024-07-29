@@ -28,7 +28,7 @@ tests_require = [
     "coverage[toml]==5.2.1",
     "freezegun==0.3.15",
     "pretend==1.0.9",
-    "pytest-cov==2.8.1",
+    "pytest-cov==5.0.0",
     "pytest-httpx",
     "pytest-asyncio",
     "pytest==6.2.5",
